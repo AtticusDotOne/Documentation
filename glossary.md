@@ -58,7 +58,7 @@ See Contract.
 
 **Authority**
 
-1. (legal) (subj.) Person or State (or state agency) who is afforded special weight in believability
+1. (legal) (subj.) Person or State (or state agency) who is afforded special weight in believability.
 1. (legal) (subj.) Person who has rights over property.
 1. (legal) (obj.) Permission--usu. granted by an Authority meeting other definitions; e.g. Alice has authority to receive this information.
 1. (legal) (verb: to authorize) An authority confering rights to another person; e.g. Alice is authorized to receive this information.
@@ -79,9 +79,13 @@ See Contract.
 
 **Commerce**
 
+**Condition**
+
 **Consent**
 
 **Constitution**
+
+**Contingency**
 
 **Contract**
 
@@ -97,17 +101,23 @@ See Contract.
 
 **DApp**
 
+**Default**
+
 **Defendant**
 
 **Digital Contract**
 
 **Discovery**
 
+**Dismissal**
+
 **Dispute**
 
 **Entity**
 
 **Evidence**
+
+**Execution**
 
 **Expert**
 
@@ -119,7 +129,13 @@ See Contract.
 
 **Finding**
 
+**Frustration**
+
 **Good Faith**
+
+**Instruction**
+
+**Insurance**
 
 **Invitation to Treat**
 
@@ -157,6 +173,8 @@ See Contract.
 
 **Principal**
 
+**Processing**
+
 **Proof**
 
 **Property**
@@ -167,11 +185,17 @@ See Contract.
 
 **Recognition**
 
+**Reconciliation**
+
 **Regulation**
 
 **Right**
 
 **Seal**
+
+**Security**
+
+**Settlement**
 
 **Signature**
 
@@ -190,4 +214,8 @@ See Contract.
 **Text**
 
 **Trade**
+
+**Underwrite**
+
+**Warrant**
 
