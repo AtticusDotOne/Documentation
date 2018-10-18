@@ -51,6 +51,8 @@ See Contract.
 1. (legal) A person, or panel composed of persons, having been appointed by all parties to an agreement, that have legal authority to decide a case.
 1. (legal) A member of an arbitration panel.
 
+**Asset**
+
 **Authentication**
 
 1. (legal) proof that a claim is true and correct.
@@ -66,6 +68,8 @@ See Contract.
 **Award**
 
 1. (legal) The outcome of an arbitration proceeding--usu. in favor of the Plaintiff (as otherwise, the case is dismissed).
+
+**Bearer**
 
 **Case**
 
@@ -95,15 +99,21 @@ See Contract.
 
 **Court**
 
+**Credential**
+
 **Cryptocurrency**
 
 **Currency**
 
 **DApp**
 
+**Debt**
+
 **Default**
 
 **Defendant**
+
+**Derivative**
 
 **Digital Contract**
 
@@ -114,6 +124,8 @@ See Contract.
 **Dispute**
 
 **Entity**
+
+**Escrow**
 
 **Evidence**
 
@@ -135,19 +147,27 @@ See Contract.
 
 **Instruction**
 
+**Instrument**
+
 **Insurance**
 
 **Invitation to Treat**
 
+**Invoive**
+
 **Judge**
 
 **Jurisdiction**
+
+**Key**
 
 **Law**
 
 **Lawyer**
 
 **License**
+
+**Lien**
 
 **Maxim**
 
@@ -158,6 +178,10 @@ See Contract.
 **Node**
 
 **Notary**
+
+**Nym**
+
+**Obligation**
 
 **Observability**
 
@@ -173,6 +197,10 @@ See Contract.
 
 **Principal**
 
+**Private**
+
+**Privity**
+
 **Processing**
 
 **Proof**
@@ -183,11 +211,15 @@ See Contract.
 
 **Protocol**
 
+**Receipt**
+
 **Recognition**
 
 **Reconciliation**
 
 **Regulation**
+
+**Reputation**
 
 **Right**
 
