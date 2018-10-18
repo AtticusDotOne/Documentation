@@ -24,6 +24,8 @@ Terms which carry special meaning are capitlized in Title Case when used in thei
 
 1. (technical) A general term for a person or software able to perform actions (i.e. sending messages) in a system.
 
+**Agency**
+
 **Agent**
 
 1. (legal) An authorized person who conducts business on behalf of another.
@@ -32,6 +34,10 @@ Terms which carry special meaning are capitlized in Title Case when used in thei
 **Agreement**
 
 See Contract.
+
+**Appeal**
+
+**Approval**
 
 **Apostille**
 
@@ -51,7 +57,11 @@ See Contract.
 1. (legal) A person, or panel composed of persons, having been appointed by all parties to an agreement, that have legal authority to decide a case.
 1. (legal) A member of an arbitration panel.
 
+**Assent**
+
 **Asset**
+
+**Assumption**
 
 **Authentication**
 
@@ -65,11 +75,19 @@ See Contract.
 1. (legal) (obj.) Permission--usu. granted by an Authority meeting other definitions; e.g. Alice has authority to receive this information.
 1. (legal) (verb: to authorize) An authority confering rights to another person; e.g. Alice is authorized to receive this information.
 
+**Automation**
+
 **Award**
 
 1. (legal) The outcome of an arbitration proceeding--usu. in favor of the Plaintiff (as otherwise, the case is dismissed).
 
+**Bail**
+
+**Bailment**
+
 **Bearer**
+
+**Business**
 
 **Case**
 
@@ -79,9 +97,15 @@ See Contract.
 
 **Clause**
 
+**Client**
+
 **Code**
 
+**Completion**
+
 **Commerce**
+
+**Company**
 
 **Condition**
 
@@ -95,7 +119,13 @@ See Contract.
 
 **Controls**
 
+**Convention**
+
+**Corporation**
+
 **Counter**
+
+**Counterparty**
 
 **Court**
 
@@ -117,21 +147,37 @@ See Contract.
 
 **Digital Contract**
 
+**Director**
+
+**Directorship**
+
+**Discretion**
+
 **Discovery**
 
 **Dismissal**
 
 **Dispute**
 
+**Duty**
+
+**Enterprise**
+
 **Entity**
+
+**Equity**
 
 **Escrow**
 
 **Evidence**
 
+**Exclusion**
+
 **Execution**
 
 **Expert**
+
+**Express**
 
 **Fact**
 
@@ -141,15 +187,27 @@ See Contract.
 
 **Finding**
 
+**Fitness**
+
 **Frustration**
 
+**Gross**
+
 **Good Faith**
+
+**Holder**
+
+**Hostile**
+
+**Inclusion**
 
 **Instruction**
 
 **Instrument**
 
 **Insurance**
+
+**Interest**
 
 **Invitation to Treat**
 
@@ -165,6 +223,8 @@ See Contract.
 
 **Lawyer**
 
+**Lease**
+
 **License**
 
 **Lien**
@@ -173,11 +233,17 @@ See Contract.
 
 **Mediator**
 
+**Net**
+
 **Network**
 
 **Node**
 
+**Nomination**
+
 **Notary**
+
+**Novation**
 
 **Nym**
 
@@ -187,13 +253,21 @@ See Contract.
 
 **Offer**
 
-**Peer**
+**Ownership**
 
-**Plaintiff**
+**Parameter**
+
+**Peer**
 
 **Person**
 
+**Plaintiff**
+
+**Preamble**
+
 **Prescription**
+
+**Presumption**
 
 **Principal**
 
@@ -211,6 +285,8 @@ See Contract.
 
 **Protocol**
 
+**Quantum**
+
 **Receipt**
 
 **Recognition**
@@ -219,13 +295,23 @@ See Contract.
 
 **Regulation**
 
+**Representation**
+
+**Representative**
+
 **Reputation**
 
+**Reservation**
+
 **Right**
+
+**Risk**
 
 **Seal**
 
 **Security**
+
+**Setoff**
 
 **Settlement**
 
@@ -237,17 +323,47 @@ See Contract.
 
 **Solicitor**
 
+**Standing**
+
 **State**
 
 **Statute**
 
+**Template**
+
 **Term**
+
+**Termination**
+
+**Termsheet**
+
+**Testimony**
 
 **Text**
 
+**Tort**
+
 **Trade**
+
+**Treaty**
+
+**Trust**
+
+**Understanding**
 
 **Underwrite**
 
+**Validation**
+
+**Verification**
+
+**Vet**
+
+**Veto**
+
+**Voluntary**
+
 **Warrant**
+
+**Witness**
 
