@@ -20,6 +20,10 @@ As such, legal terms as defined herein are not intended to be authoritative in a
 
 1. (legal) To state that a party is at fault.
 
+**Accrual**
+
+1. (legal) To manifest an enforceable right over time. Ex: *Past the due date, you will accrue additional debt in penalty fees.*
+
 **Action**
 
 1. (legal) To pursue enforcement on a case; i.e. to sue.
@@ -159,8 +163,9 @@ See contract.
 
 **Capacity**
 
-1. (legal) Of adult age and of sound mind; i.e. meeting criteria for ability to contract.
-1. (technical) Relating to resources available in a technical system.
+1. (legal) Of adult age and of sound mind; i.e. meeting criteria for ability to contract. Ex: *Felipe did not have capacity to contract, being that he was 8 years old at the time.*
+1. (legal) A person's assumed role within a body. Ex: *Alice is acting in her capacity as Trustee for the endowment for the afflicted.*
+1. (technical) Relating to resources available in a system. Ex: *There is insufficient capacity in this hard drive for installing any more software.*
 
 **Case**
 
@@ -291,6 +296,11 @@ See contract.
 
 1. (legal) State decreed notes, or (usu. digital) representations thereof, that represent a unit of account; i.e. money, or legal tender.
 
+**Custody**
+
+1. (legal) To have responsibility for the care of property (usu. asset) or persons (usu. children); custody does not imply ownership rights.
+1. (technical) The credential that has privileges to transfer a digital asset.
+
 **DApp**
 
 1. (technical) Software runnning on, or in conjuction with, a blockchain--usu. has a client interface.
@@ -351,45 +361,75 @@ See contract.
 1. (technical) To implement controls that prevent users from entering data or doing actions leading to unwanted states.
 1. (legal) To ensure, by means escalating up to the use of force if necessary, performance; usu. to raise a dispute with an arbitrator or filing with a court.
 
-**Enterprise**
-
 **Entity**
+
+1. (legal) Human or legally recognized body (e.g. corporation) that has capacity for rights and duties.
 
 **Equity**
 
+1. (legal) One of the legal systems in English tradition; a body of Law that aims to remedy people by applying principles of fairness; see [Maxims of Equity](https://en.wikipedia.org/wiki/Maxims_of_equity)
+1. (commercial) Commercial interest in a corporation--usu. stock. Ex: *He's asking for 2% equity in return.*
+1. (commercial) Accumulated value as debt is set-off. Ex: *I've built up some equity on my home as the remainder of the mortgage is now half of its market value.*
+
 **Escrow**
+
+1. (legal) A person (usu. a lawyer) who holds custody of an asset (usu. in trust, as trustee) to be slated for release, following prescribed instructions, depending on a specified condition (or set thereof).
+1. (technical) Subsystem that holds onto an asset and releases it depending on the evaluation of a defined condition.
 
 **Evidence**
 
-**Exclusion**
+1. (legal) Information (usu. accompanied by a chose or documentation) when examined in context of a claim, supports the said claim; however does not necessarily prove the claim.
 
 **Execution**
 
-**Expert**
+1. (technical) The act of carrying out instructions set out in software.
+1. (legal) Carrying out a course of conduct to its completion.
+1. (legal) To put to death.
+1. (legal) To sign (usu. a contract).
+1. (legal) To perform the duties of an executor--which is to follow instructions in a testament following the testator's death.
 
 **Express**
 
+1. (legal) To be stated explicitly.
+
 **Fact**
+
+1. (legal) Information that is sufficiently established to be considered true and correct; for which rebuttals were either not voiced or not outweighed by supporting evidence.
+1. (legal) Statement made by an authority in the subject matter.
 
 **Fault**
 
+1. (legal) Whether intended or not, either a lack of performance or to commit a prohibited act.
+1. (technical) A state within a system that is not intended, forcing a halt in the execution.
+
 **Fiduciary**
 
-**Finance**
+1. (legal) A person that is responsible for another; fiduciary must put the other's interests above his/her own.
 
 **Finding**
 
-**Fitness**
+1. (legal) A decision made by an arbiter.
+
+**Fit or Fitness**
+
+1. (legal) That a chose or person meets defined standards for its purpose. Ex: *This equipment was sold despite it not being fit for purpose.*
 
 **Frustration**
 
+1. (legal) The status of a contract when obligations are made impossible by external circumstances. Ex: *Due to a change in legislation that raised restrictions on the medicinal ingredients that make up our product, it left our shipping agreement in legal frustration.*
+
 **Gross**
+
+1. (legal) Adverse to a large degree. Ex: *This is gross negligence by the part of your client.*
+1. (accounting) Sum total (usu. sales revenue) prior to considering opposing offsets (usu. expenses).
 
 **Good Faith**
 
-**Holder**
+1. (legal) Conduct that stays respectful of other parties' rights and interests.
 
 **Hostile**
+
+1. (legal) Where opposing parties' consent is not pursued.
 
 **Human**
 
@@ -397,7 +437,7 @@ See contract.
 
 **Identity**
 
-**Inclusion**
+**In Kind**
 
 **Issue**
 
@@ -496,6 +536,8 @@ See contract.
 **Protocol**
 
 **Quantum**
+
+**Rebuttal**
 
 **Receipt**
 
