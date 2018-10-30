@@ -24,6 +24,10 @@ As such, legal terms as defined herein are not intended to be authoritative in a
 
 1. (legal) To manifest an enforceable right over time. Ex: *Past the due date, you will accrue additional debt in penalty fees.*
 
+**Acquiesce**
+
+1. (legal) To agree to something implicitly; i.e. without protest.
+
 **Action**
 
 1. (legal) To pursue enforcement on a case; i.e. to sue.
@@ -136,7 +140,7 @@ See contract.
 
 **Bailment**
 
-1. (legal) A (usu. temporary) transfer of custody of a chose without full conferred rights onto the transferee. Ex: *Alice had not authorized Bob, under the bailment terms, to operate the device for his personal use.*
+1. (legal) A (usu. temporary) transfer of custody of a property without full conferred rights onto the transferee. Ex: *Alice had not authorized Bob, under the bailment terms, to operate the device for his personal use.*
 
 **Bearer**
 
@@ -219,11 +223,20 @@ See contract.
 
 1. (legal) An entity (usu. corporation or partnership) established for a profit motive.
 
+**Compensation**
+
+1. (casual) Payment for a service or employment.
+1. (legal) Remedy for damages or losses suffered.
+
 **Condition**
 
 1. (casual) A situation whereas the outcome depends on criteria.
 1. (technical) An instuction whereas its performance depends on the evaluation of a defined criteria.
 1. (legal) In Contracts, a condition is a criteria, that if not met, may vititate or void the contract--as opposed to a warranty.
+
+**Confer**
+
+1. (legal) To assign rights to another.
 
 **Conflict of Interest**
 
@@ -300,6 +313,10 @@ See contract.
 
 1. (legal) To have responsibility for the care of property (usu. asset) or persons (usu. children); custody does not imply ownership rights.
 1. (technical) The credential that has privileges to transfer a digital asset.
+
+**Damages**
+
+1. (legal) Compensation for (legal) injury.
 
 **DApp**
 
@@ -433,49 +450,102 @@ See contract.
 
 **Human**
 
-1. (legal) A *Person* that is not a *Corporation* or any other legal *Entity* (e.g. *Trust*); i.e. a flesh-and-blood human being.
+1. (legal) A person that is not a corporation or any other legal entity (e.g. trust); i.e. a flesh-and-blood human being.
 
 **Identity**
 
+1. (legal) A verifiable claim that identifies a person; usu. proven by state issued identification; a human may have several identities.
+1. (technical) A claim for a unique identifier for a user; can be proven cryptographically.
+
+**Injury**
+
+1. (legal) Losses suffered as a result of a breach of contract.
+
 **In Kind**
 
-**Issue**
+1. (legal) In lieu of monetary transfer; usu. a transfer of asset instead of a payment.
 
 **Instruction**
 
+1. (technical) An atomic, unambiguous action to be performed by a system.
+1. (legal) A prescribed action to be performed by obligation.
+
 **Instrument**
+
+1. (legal) A written document that evidences a right or claim to property or money.
 
 **Insurance**
 
+1. (casual) A fail-safe contingency for a future potentially adverse situation.
+1. (legal) An instrument that evidences right to compensation for adverse situations.
+
 **Interest**
+
+1. (casual) That captures one's attention.
+1. (banking) The rate at which the cost of borrowing is accrued.
+1. (legal) To have a stake in a venture or company.
 
 **Invitation to Treat**
 
-**Invoive**
+1. (legal) Advertising; making public a suggested retail price; not an offer, as it can be declined.
+
+**Invoice**
+
+1. (legal) A written notice claiming that a payment is due by obligation.
+
+**Issue**
+
+1. (legal) A legal question that has yet to be answered.
+1. (legal) To draft and hand out note; usu. an instrument, certificate or license; i.e. something that confers rights to another.
 
 **Judge**
 
+1. (legal) A person appointed by the State to oversee the court; is generally the arbiter.
+
 **Jurisdiction**
+
+1. (legal) Usu. a state, which has sovereignty over its borders and legal system, or an administrative region that has a separate legal system (e.g. Hong Kong). Ex: *Which jurisdiction did you select for the contract?*
+1. (legal) Ability to hear and adjudicate a case. Ex: *The court has assumed jurisdiction, despite objections from the defense.*
 
 **Key**
 
+1. (technical) In cryptography, a key is a part of a user's identity used to encrypt and/or decrypt.
+
 **Law**
+
+1. (legal) The aggregate of all legislation, as well as case precendents (in the case of common law jurisdictions). Ex: *In Law, ignorance is no excuse.*
+1. (legal) A body of legislation. Ex: *The Labor Laws generally favors the employee in Japan.*
+1. (legal) The jurisdiction in which to adjudicate. Ex: *Our choice of Law is that of New York.*
 
 **Lawyer**
 
+1. (legal) Someone who is knowlegeable in Law.
+1. (legal) A human who holds a current state issued license to practise Law.
+
 **Lease**
+
+1. (legal) A specific type of bailment, whereas the bailee pays a fee to the bailor; whilst the bailee has custody of the property.
 
 **Legislation**
 
+1. (legal) The act of establishing Law.
+
 **License**
 
+1. (legal) A state-issued authorization to engage in activity.
+
 **Lien**
+
+1. (legal) A right by a person, who is not custodian, over property; usu. ability to reposess upon default. EX: *The bank lien on my house is a burden to think about.*
+1. (legal) A right by a person to hold in custody property, which is not owned; usu. in waiting for payment. Ex: *The drycleaner withheld the customer's garnments under lien since the customer was behind on payment.*
 
 **Maxim**
 
 **Mediator**
 
 **Member**
+
+**Money**
 
 **Net**
 
@@ -490,6 +560,8 @@ See contract.
 **Novation**
 
 **Nym**
+
+**Objection**
 
 **Obligation**
 
@@ -545,7 +617,11 @@ See contract.
 
 **Reconciliation**
 
+**Redeem**
+
 **Regulation**
+
+**Remedy**
 
 **Representation**
 
@@ -610,6 +686,8 @@ See contract.
 **Understanding**
 
 **Underwrite**
+
+**User**
 
 **Validation**
 
