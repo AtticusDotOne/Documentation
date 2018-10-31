@@ -117,6 +117,10 @@ As such, legal terms as defined herein are not intended to be authoritative in a
 1. (legal) property of a person (usu. a corporation). Ex: *This hardware is listed as a company asset.*
 1. (legal) A chose upon which a person has rights and/or powers. Ex: *Whosoever holds the private key controls the digital asset.*
 
+**Assign**
+
+1. (legal) To associate a person (usu. by name) to a contract.
+
 **Assumption**
 
 1. (casual) To act as-if something is proven. Ex: *The opposing counsel assumes my client intended such action.*
@@ -303,6 +307,12 @@ As such, legal terms as defined herein are not intended to be authoritative in a
 
 1. (legal) A statement of fact about a person, with which lends additional believability to the said person. Ex: *The expert witness's credentials clearly show his expertise on the subject of forensics.*
 1. (technical) A certificate claiming identity or role. Ex: *The log shows a user performing actions using administrator credentials.*
+
+**Credit**
+
+1. (legal) Believability or Reputation.
+1. (legal) A person's ability to make payments for obligations.
+1. (legal) Qualified and quantified approval from an institution to underwrite a garantee on behalf of a person.
 
 **Crime**
 
@@ -491,6 +501,10 @@ As such, legal terms as defined herein are not intended to be authoritative in a
 1. (legal) A verifiable claim that identifies a person; usu. proven by state issued identification; a human may have several identities.
 1. (technical) A claim for a unique identifier for a user; can be proven cryptographically.
 
+**Immunity**
+
+1. (legal) A special status granted by an authority (usu. State) that exempts one from liability.
+
 **Implied**
 
 1. (legal) That is not mentioned explicitly yet is intended in meaning.
@@ -500,6 +514,14 @@ As such, legal terms as defined herein are not intended to be authoritative in a
 
 1. (legal) To draw out a person's meaning from other statements.
 
+**Impugn**
+
+1. (legal) That supports an argument of guilt.
+
+**Impunity**
+
+1. (legal) Exemption from legal consequences.
+
 **Impute**
 
 1. (legal) To draw out a person's intention from other statements.
@@ -507,6 +529,11 @@ As such, legal terms as defined herein are not intended to be authoritative in a
 **Incorporate**
 
 1. (legal) To establish a corporation.
+
+**Indemnity**
+
+1. (legal) Security or protection against loss.
+1. (legal) Payment for compensation for past loss.
 
 **Injury**
 
@@ -530,11 +557,21 @@ As such, legal terms as defined herein are not intended to be authoritative in a
 1. (casual) A fail-safe contingency for a future potentially adverse situation.
 1. (legal) An instrument that evidences right to compensation for adverse situations.
 
+**Intent or Intention**
+
+1. (legal) A person's anticipated direction.
+1. (legal) A person's purposeful and/or willed action.
+
 **Interest**
 
 1. (casual) That captures one's attention.
 1. (banking) The rate at which the cost of borrowing is accrued.
 1. (legal) To have a stake in a venture or company.
+
+**Institution**
+
+1. (legal) A large corporation (usu. a bank) or public body.
+1. (casual) A tradition.
 
 **Invitation to Treat**
 
@@ -653,6 +690,16 @@ As such, legal terms as defined herein are not intended to be authoritative in a
 **Notary**
 
 1. (legal) A state-recognized person that may certify declarations on behalf of the State.
+
+**Note**
+
+1. (casual) A written text.
+1. (legal) A written evidence of a claim.
+
+**Notice**
+
+1. (legal) A publicaly posted message communicating intention.
+1. (legal) A message between parties to communicate and evidence intention.
 
 **Novation**
 
@@ -790,43 +837,96 @@ As such, legal terms as defined herein are not intended to be authoritative in a
 
 **Rebuttal**
 
+1. (legal) An opposing argument.
+
 **Receipt**
+
+1. (legal) A notice that evidences receipt of property or asset, usu. of a monetary payment.
 
 **Recognition**
 
+1. (legal) To acknowledge subsitance of a right and/or identity.
+
 **Reconciliation**
+
+1. (legal) To reach an agreed upon outcome following a dispute.
+1. (legal) To voice an explanation that bridges two seemingly opposing concepts.
 
 **Record**
 
+1. (casual) To keep an audio/video log of events.
+1. (technical) An element of data in a database table.
+1. (legal) To keep a log in written form.
+1. (legal) A written text.
+1. (legal) To submit or depose a statement with an official body.
+
 **Redeem**
+
+1. (legal) To compensate for injury or loss.
+1. (legal) To claim property in exchange for a note. 
 
 **Redemption**
 
 1. (legal) Nominal form of: redeem.
 
-**Regulation**
+**Regulations**
+
+1. (legal) State imposed controls onto businesses in an industry intended to stabilize commercial or to protect the public.
 
 **Remedy**
 
+1. (legal) To redress a wrong.
+
 **Representation**
+
+1. (legal) A statement or claim made by a person.
+1. (legal) An ability by a person to speak on behalf of another.
 
 **Representative**
 
+1. (legal) A person who is authorized to speak on behalf of another.
+1. (legal) A person who has authority within an entity (usu. a corporation).
+
 **Reputation**
+
+1. (legal) A measure of character of a person.
+1. (legal) A measure of believability of a person.
 
 **Reservation**
 
+1. (casual) To keep available for a future customer.
+1. (legal) To be reluctant.
+1. (legal) To agree to most terms of an agreement, whilst not agreeing to some of the terms.
+1. (legal) An exclusion to the general rule.
+
 **Revoke**
+
+1. (legal) To remove one's right; usu. a license.
 
 **Rights**
 
+1. (casual) What is righteous and/or virtuous.
+1. (legal) A state of affairs that is recognized and protected by an authority (usu. a State); a right can be positive: the right to do; a right can be negative, a right not to do; usu. a right is one person's right to do with the exclusion of someone else's right to do--e.g. the owner has the right to consume his/her property to the exclusion of everyone else's.
+1. (legal) That is due or owed to someone.
+
 **Risk**
+
+1. (legal) A potential future liability that has yet to manifest.
 
 **Seal**
 
+1. (legal) That is private. Ex: *This letter is under seal and will not be discussed in this court.*
+1. (legal) In Asian cultures, a signature in stamp form. Ex: *The client was unable to sign as he hadn't brought his seal.*
+1. (legal) An impession left on paper to indicate authenticity and origin. Ex: *The wax seal left no doubt as to who sent this letter.*
+
 **Security**
 
+1. (casual) Safety from dangers and risks.
+1. (legal)
+
 **Setoff**
+
+1. (legal) The cancellation of one debt against another in whole or in part. Ex: *Instead of paying me the full amount, why not setoff the payment I owe you?*
 
 **Settlement**
 
@@ -842,11 +942,17 @@ As such, legal terms as defined herein are not intended to be authoritative in a
 
 **State**
 
+**Status**
+
 **Statute**
 
 **Strike**
 
 1. (legal) To remove something from minutes or a record.
+
+**Subsitence**
+
+1. (legal) To exist in a non-material sense; usu. pertaining to rights.
 
 **Support**
 
