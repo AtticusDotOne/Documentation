@@ -16,6 +16,14 @@ As such, legal terms as defined herein are not intended to be authoritative in a
 
 ## Terms
 
+**Account**
+
+1. (legal) A business relationship established by contract. Ex: *Your signature here will create an account with us.*
+1. (legal) The ledger of transactions between two parties in a business relationship. Ex: 
+1. (legal) To record on a ledger. Ex: *I will take this payment into account*
+1. (legal) See testimony. Ex: *The witness's account was rather revealing.*
+1. (legal) To add into consideration. Ex: *The judge took the severity of the trauma into account.*
+
 **Accuse**
 
 1. (legal) To state that a party is at fault.
@@ -49,7 +57,8 @@ As such, legal terms as defined herein are not intended to be authoritative in a
 
 **Agreement**
 
-See contract.
+1. (casual) The status of two or more persons sharing intention.
+1. (legal) See contract.
 
 **Amendment**
 
@@ -91,6 +100,7 @@ See contract.
 **Argument**
 
 1. (legal) A person's point of view on a matter.
+1. (technical) See parameter.
 
 **Assent**
 
@@ -285,7 +295,9 @@ See contract.
 
 **Court**
 
-1. (legal) A state-established forum or venue in which a case is decided.
+1. (legal) A state-established forum or venue in which a case is decided; a.k.a.: courtroom. Ex: *I'll see you in court.*
+1. (legal) A proceeding held in a courtroom. Ex: *This court is adjourned.*
+1. (legal) The authority in the court proceeding. Ex: *If it pleases the court, I will move for dismissal.*
 
 **Credentials**
 
@@ -300,6 +312,10 @@ See contract.
 
 1. (legal) (noun) A person that has been found by a court to be guilty of a crime.
 1. (legal) (adj.) That is tantamount to a crime.
+
+**Cross-examination**
+
+1. (legal) Procedure by which the opposing counsel examines a matter; with the general aim to refute or weaken a claim.
 
 **Cryptocurrency**
 
@@ -384,7 +400,7 @@ See contract.
 
 **Equity**
 
-1. (legal) One of the legal systems in English tradition; a body of Law that aims to remedy people by applying principles of fairness; see [Maxims of Equity](https://en.wikipedia.org/wiki/Maxims_of_equity)
+1. (legal) One of the legal systems in English tradition; a body of Law that aims to remedy people by applying principles of fairness; see [Maxims of Equity](https://en.wikipedia.org/wiki/Maxims_of_equity).
 1. (commercial) Commercial interest in a corporation--usu. stock. Ex: *He's asking for 2% equity in return.*
 1. (commercial) Accumulated value as debt is set-off. Ex: *I've built up some equity on my home as the remainder of the mortgage is now half of its market value.*
 
@@ -393,9 +409,19 @@ See contract.
 1. (legal) A person (usu. a lawyer) who holds custody of an asset (usu. in trust, as trustee) to be slated for release, following prescribed instructions, depending on a specified condition (or set thereof).
 1. (technical) Subsystem that holds onto an asset and releases it depending on the evaluation of a defined condition.
 
+**Establish**
+
+1. (legal) To put down on paper. Ex: *We established the Charter today.*
+1. (legal) With substantial supporting evidence. Ex: *This concept is well established.*
+1. (legal) To duly compose and record a recognized entity. Ex: *This trust was established before my birth.*
+
 **Evidence**
 
 1. (legal) Information (usu. accompanied by a chose or documentation) when examined in context of a claim, supports the said claim; however does not necessarily prove the claim.
+
+**Examination**
+
+1. (legal) Procedure by which to elaborate required detail on a matter.
 
 **Execution**
 
@@ -435,6 +461,14 @@ See contract.
 
 1. (legal) The status of a contract when obligations are made impossible by external circumstances. Ex: *Due to a change in legislation that raised restrictions on the medicinal ingredients that make up our product, it left our shipping agreement in legal frustration.*
 
+**Garantee**
+
+1. (legal) To accept liability for a claim if shown to be false.
+
+**Garantor**
+
+1. (legal) A person who accepts liability for another person.
+
 **Gross**
 
 1. (legal) Adverse to a large degree. Ex: *This is gross negligence by the part of your client.*
@@ -456,6 +490,23 @@ See contract.
 
 1. (legal) A verifiable claim that identifies a person; usu. proven by state issued identification; a human may have several identities.
 1. (technical) A claim for a unique identifier for a user; can be proven cryptographically.
+
+**Implied**
+
+1. (legal) That is not mentioned explicitly yet is intended in meaning.
+1. (legal) A logically deductible outcome from other statements.
+
+**Imply**
+
+1. (legal) To draw out a person's meaning from other statements.
+
+**Impute**
+
+1. (legal) To draw out a person's intention from other statements.
+
+**Incorporate**
+
+1. (legal) To establish a corporation.
 
 **Injury**
 
@@ -530,6 +581,10 @@ See contract.
 
 1. (legal) The act of establishing Law.
 
+**Liability**
+
+1. (legal) Responsibility to redeem an adverse situation relative to the case. Ex: *Will your client accept liability if this turns out not to be correct?*
+
 **License**
 
 1. (legal) A state-issued authorization to engage in activity.
@@ -541,73 +596,197 @@ See contract.
 
 **Maxim**
 
+1. (legal) A fundamental principle that are considered self-evident (i.e. requiring no support)
+
 **Mediator**
+
+1. (legal) A third party that facilitates reaching agreement between parties in a dispute.
 
 **Member**
 
+1. (legal) A person that is under the purview of an entity (usu. a corporation).
+
+**Memorandum**
+
+1. (legal) A record for one or many persons for safekeeping.
+
+**Memorialize**
+
+1. (legal) To record a memorandum.
+
+**Minutes**
+
+1. (casual) A unit of time.
+1. (legal) A document that transcribes what voiced in a meeting.
+
 **Money**
+
+1. (casual) A unit of account.
+1. (legal) That meets the criteria of Legal Tender within the operative jurisdiction.
+1. (legal) Note that evidences right or claim to money.
 
 **Net**
 
+1. (legal) To adjust a sum with an opposing amount; usu. gross total sales minus taxes.
+
 **Network**
+
+1. (casual) People in a community.
+1. (technical) A collection of devices that maintain either a continuous or regular connection and operate on a defined protocol.
 
 **Node**
 
+1. (technical) A single device on a network.
+
+**Nominee**
+
+1. (legal) A person under whose name another person is doing business. Ex: *As I am not a citizen of this country, I must use a nominee to incorporate.*
+
 **Nomination**
+
+1. (legal) To propose a person for a position.
+
+**Notarize**
+
+1. (legal) To have a claim certified by a notary.
 
 **Notary**
 
+1. (legal) A state-recognized person that may certify declarations on behalf of the State.
+
 **Novation**
+
+1. (legal) To change the debtor; e.g. for a loan, a third party takes on liability for the debt.
 
 **Nym**
 
+**Object**
+
+1. (legal) (verb) See objection.
+1. (technical) An instantiation of a predefined class.
+
 **Objection**
+
+1. (legal) To voice a disagreement to a claim.
 
 **Obligation**
 
+1. (legal) A promise arising out of a contract.
+
 **Observability**
+
+1. The ability to reliably keep and examine all records to a contract; one of the core principles of Smart Contracts, as per Nick Szabo.
 
 **Offer**
 
+1. (casual) See proposal.
+1. (legal) An agreement that is ready for acceptance; in the strictest sense, an offer can not be withdrawn once accepted.
+
 **Ownership**
+
+1. (legal) A person's absolute right over property.
+1. (legal) A person's rights over property, as recognized or permitted by the State.
 
 **Parameter**
 
+1. (technical) Datum to be passed into a function call.
+
 **Peer**
+
+1. (technical) Nodes that are operated by persons.
+1. (legal) People.
 
 **Person**
 
+1. (legal) A human or a legally recognized entity.
+
 **Plaintiff**
+
+1. (legal) Person who raises a dispute.
+
+**Position**
+
+1. (legal) A defined role to be performed by a person within an entity.
+
+**Power**
+
+1. (legal) See rights.
 
 **Preamble**
 
+1. (legal) Usu. the first paragraph of a legal text; usu. describes the intention of the parties.
+
 **Prescription**
+
+1. (casual) An instruction issued by a doctor or care-giver.
+1. (legal) A pre-established procedure recorded in text, either in a memorandum or statute.
 
 **Presumption**
 
+1. (casual) A guess.
+1. (legal) Information used as a basis for understanding prior to having said information stated. Ex: *The main presumption was that the defendant understood English--yet we now know this not be the case; how can the plaintiff know that the defendant understood the terms?*
+
 **Principal**
+
+1. (legal) A person for whom an Agent represents. Ex: *The agent is accepting the offer on behalf of his principal.*
+1. (casual) Main or operative. Ex: *The principal reason for doing this is that it is the right thing to do!*
 
 **Private**
 
+1. (casual) Secret. Ex: *Can you keep this private?*
+1. (legal) Relating to people, not the State. Ex: *This is privately held land.*
+1. (legal) That is not for public use or consumption; that is controlled in its distribution. Ex: *This document is private--hence I cannot publish it.*
+
 **Privity**
+
+1. (legal) Privacy between parties of a contract as an implied right above the State's purview to examine.
 
 **Procedure**
 
+1. (legal) An established set of steps followed by an official body usu. during a proceeding.
+1. (technical) A series of instructions that are defined as an aggregate.
+
 **Proceeding**
+
+1. (legal) A hearing between an authority (usu. a judge) and the parties (usu. all parties) to discuss a dispute; usu. a court.
 
 **Process**
 
-**Processing**
+1. (legal) To compile data relating to an account or case.
+1. (technical) To perform defined instructions on input data.
+1. (technical) An individual software running on a device; many processes may run in parallel.
 
 **Proof**
 
+1. (legal) Satifactory support for a claim to be considered as fact; irrefutable evidence. Ex: *The physical evidence proves that the witness was present.*
+1. (legal) A recognized statement by an authority, usu. State. Ex: *Do you carry proof of identity, such as a Passport?*
+1. (technical) Positive result of a claim of identity.
+
 **Property**
+
+1. (legal) A person's state-recognized right over a chose or asset.
 
 **Proposal**
 
+1. (legal) A general step in negotiating an agreement by suggesting terms to consider.
+
 **Protocol**
 
+1. (technical) A sequence of messages between agents.
+1. (legal) See procedure.
+
+**Public**
+
+1. (legal) Without controls or limitations. Ex: *This information is considered public, as it was published since 2013.*
+1. (legal) Owned by the State. Ex: *This is a publicly owned utility.*
+
+**Purview**
+
+1. (legal) Within one's scope of responsibility or authority.
+
 **Quantum**
+
+1. (legal) Damages stemming from a single issue in a case; total damages for a case will be the sum of quanta.
 
 **Rebuttal**
 
@@ -617,7 +796,13 @@ See contract.
 
 **Reconciliation**
 
+**Record**
+
 **Redeem**
+
+**Redemption**
+
+1. (legal) Nominal form of: redeem.
 
 **Regulation**
 
@@ -633,7 +818,7 @@ See contract.
 
 **Revoke**
 
-**Right**
+**Rights**
 
 **Risk**
 
@@ -658,6 +843,14 @@ See contract.
 **State**
 
 **Statute**
+
+**Strike**
+
+1. (legal) To remove something from minutes or a record.
+
+**Support**
+
+1. (legal) A citation or quote from a more believable souce, or evidence in favor of the claim under examination.
 
 **System**
 
