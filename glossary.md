@@ -154,15 +154,19 @@ As such, legal terms as defined herein are not intended to be authoritative in a
 
 **Bailment**
 
-1. (legal) A (usu. temporary) transfer of custody of a property without full conferred rights onto the transferee. Ex: *Alice had not authorized Bob, under the bailment terms, to operate the device for his personal use.*
+1. (legal) A (usu. temporary) transfer of custody from an owner of a property (termed: bailor) to another person (termed: bailee) without full conferred rights onto the bailee. Ex: *Alice had not authorized Bob, under the bailment terms, to operate the device for his personal use.*
 
 **Bearer**
 
-1. (legal) A person who is in possession of an instrument.
+1. (legal) A person who is in possession of an instrument. Ex: *This note authorizes payment to its bearer.*
+
+**Beneficiary**
+
+1. (legal) A person who is within the scope of a trust that has a claim to beneficial interest of a trust's assets.
 
 **Bias**
 
-1. (general) Marked preference for something.
+1. (general) Significant preference for something.
 1. (legal) Undue or illegitimate leanings on one's decicion making--usu. due to a conflict of interest.
 
 **Blockchain**
@@ -370,6 +374,10 @@ As such, legal terms as defined herein are not intended to be authoritative in a
 
 1. (legal) The currency or metric used to quantify the amounts due. Ex: *This loan is denominated in USD despite the parties residing in Singapore.*
 
+**Deposition**
+
+1. (legal) A detailed account made under oath with examination that is recorded in the presence of lawyers outside a court.
+
 **Derivative**
 
 1. (legal) That draws its value from another asset (termed: underlying); usu. a securities contract that carries value (termed: notional), as it may yield future value. Ex: *Futures and Options are the most popular forms of Derivatives.*
@@ -403,6 +411,11 @@ As such, legal terms as defined herein are not intended to be authoritative in a
 
 1. (technical) To implement controls that prevent users from entering data or doing actions leading to unwanted states.
 1. (legal) To ensure, by means escalating up to the use of force if necessary, performance; usu. to raise a dispute with an arbitrator or filing with a court.
+
+**Entitlement**
+
+1. (legal) To have authorization or rights to property or to perform an action.
+1. (technical) Ability for an identity to perform an action.
 
 **Entity**
 
@@ -479,6 +492,15 @@ As such, legal terms as defined herein are not intended to be authoritative in a
 
 1. (legal) A person who accepts liability for another person.
 
+**Grant**
+
+1. (casual) Money received by a person from an institution or state for a specific purspose.
+1. (legal) To confer rights to a person.
+
+**Grantor**
+
+1. (legal) Person who establishes a trust.
+
 **Gross**
 
 1. (legal) Adverse to a large degree. Ex: *This is gross negligence by the part of your client.*
@@ -487,6 +509,15 @@ As such, legal terms as defined herein are not intended to be authoritative in a
 **Good Faith**
 
 1. (legal) Conduct that stays respectful of other parties' rights and interests.
+
+**Governance**
+
+1. (legal) To set direction of a state or institution.
+1. (technical) To encode the rules that manage decision making.
+
+**Government**
+
+1. (legal) The governance structure of a state.
 
 **Hostile**
 
@@ -516,7 +547,7 @@ As such, legal terms as defined herein are not intended to be authoritative in a
 
 **Impugn**
 
-1. (legal) That supports an argument of guilt.
+1. (legal) That supports an argument for guilt.
 
 **Impunity**
 
@@ -631,6 +662,10 @@ As such, legal terms as defined herein are not intended to be authoritative in a
 1. (legal) A right by a person, who is not custodian, over property; usu. ability to reposess upon default. EX: *The bank lien on my house is a burden to think about.*
 1. (legal) A right by a person to hold in custody property, which is not owned; usu. in waiting for payment. Ex: *The drycleaner withheld the customer's garnments under lien since the customer was behind on payment.*
 
+**Loan**
+
+1. (legal) An agreement by which a person (termed: Lendor) transfers assets to another person (termed: borrower) with the expectation of being repaid; usu. with an interest rate applied.
+
 **Maxim**
 
 1. (legal) A fundamental principle that are considered self-evident (i.e. requiring no support)
@@ -660,7 +695,12 @@ As such, legal terms as defined herein are not intended to be authoritative in a
 
 1. (casual) A unit of account.
 1. (legal) That meets the criteria of Legal Tender within the operative jurisdiction.
-1. (legal) Note that evidences right or claim to money.
+1. (legal) Note that evidences right or claim to assets.
+
+**Negligence**
+
+1. (casual) With disregard for consequences.
+1. (legal) That fails to uphold a duty of care.
 
 **Net**
 
@@ -705,7 +745,9 @@ As such, legal terms as defined herein are not intended to be authoritative in a
 
 1. (legal) To change the debtor; e.g. for a loan, a third party takes on liability for the debt.
 
-**Nym**
+**Oath**
+
+1. (legal) That makes one subject to legal liability.
 
 **Object**
 
@@ -740,12 +782,26 @@ As such, legal terms as defined herein are not intended to be authoritative in a
 
 **Peer**
 
-1. (technical) Nodes that are operated by persons.
-1. (legal) People.
+1. (technical) Node that is operated by person.
+1. (legal) An abstraction for the people, or a selected group thereof.
+
+**People**
+
+1. (legal) The aggregate of all humans domiciled in a state.
+
+**Permission**
+
+1. (legal) A privilege granted by an authority.
+1. (technical) See entitlement.
 
 **Person**
 
 1. (legal) A human or a legally recognized entity.
+1. (legal) That has capacity for rights and duties.
+
+**Personality**
+
+1. (legal) That can be considered a legal person.
 
 **Plaintiff**
 
@@ -783,6 +839,11 @@ As such, legal terms as defined herein are not intended to be authoritative in a
 1. (casual) Secret. Ex: *Can you keep this private?*
 1. (legal) Relating to people, not the State. Ex: *This is privately held land.*
 1. (legal) That is not for public use or consumption; that is controlled in its distribution. Ex: *This document is private--hence I cannot publish it.*
+
+**Privilege**
+
+1. (legal) An authorized status granting permission to property or to perform an action.
+1. (technical) See entitilement.
 
 **Privity**
 
@@ -843,6 +904,10 @@ As such, legal terms as defined herein are not intended to be authoritative in a
 
 1. (legal) A notice that evidences receipt of property or asset, usu. of a monetary payment.
 
+**Receivable**
+
+1. (legal) A vested debt that is owed from the perspective of the debtee.
+
 **Recognition**
 
 1. (legal) To acknowledge subsitance of a right and/or identity.
@@ -892,6 +957,10 @@ As such, legal terms as defined herein are not intended to be authoritative in a
 1. (legal) A measure of character of a person.
 1. (legal) A measure of believability of a person.
 
+**Res**
+
+1. (legal) Assets placed in trust.
+
 **Reservation**
 
 1. (casual) To keep available for a future customer.
@@ -922,7 +991,12 @@ As such, legal terms as defined herein are not intended to be authoritative in a
 **Security**
 
 1. (casual) Safety from dangers and risks.
-1. (legal)
+1. (legal) An agreement (usu. financial in nature) that intends to garantee future transfer of an asset based on predefined criteria; usu. regulated, reassignable and sometimes tradable.
+
+**Service**
+
+1. (legal) Actions done for the benefit of another person; usu. in exchange for payment.
+1. (casual) To submit to an authority. Ex: *We are at your service.*
 
 **Setoff**
 
@@ -930,25 +1004,62 @@ As such, legal terms as defined herein are not intended to be authoritative in a
 
 **Settlement**
 
+1. (legal) To net out all due amounts of a contract near its completion, and to effect all payments thereof.
+
 **Signature**
+
+1. (legal) Evidence of intention to contract; should also be unique so as to be identifiable.
 
 **Smart Contract**
 
+1. (legal) A set of promises that include machine interpretable instructions for automation.
+1. (technical) See DApp.
+
 **Smart Property**
+
+1. (legal) Property that has integrated mechanisms to authenticate and authorize entitled users.
+1. (technical) A device that is a client of IoT (Internet of Things).
 
 **Solicitor**
 
+1. (legal) See lawyer.
+
+**Sovereign**
+
+1. (legal) The ultimate state authority; e.g a monarch or emperor.
+1. (legal) (adj.) See sovereignty.
+
+**Sovereignty**
+
+1. (legal) That is not subject to external accountability.
+
 **Standing**
+
+1. (legal) A right to appear in court; usu. as a result of having a recognized interest in a case.
 
 **State**
 
+1. (legal) A sovereign people with defined borders.
+1. (legal) A conglomerate composed of a jurisdiction, a government, a people and a border.
+1. (technical) The combined description of status and data of software, with defined transitions for the state to be modified.
+
 **Status**
 
+1. (legal) A person's entitlement or position.
+1. (technical) A short description for the current state of affairs relative to a user in the procedural steps of software.
+
 **Statute**
+
+1. (legal) A legislated text that prescribes rules in a jurisdiction.
 
 **Strike**
 
 1. (legal) To remove something from minutes or a record.
+
+**Submission**
+
+1. (legal) The disclosure of information to an authority or institution.
+1. (technical) The sending of data for a form.
 
 **Subsitence**
 
@@ -956,49 +1067,136 @@ As such, legal terms as defined herein are not intended to be authoritative in a
 
 **Support**
 
-1. (legal) A citation or quote from a more believable souce, or evidence in favor of the claim under examination.
+1. (legal) A citation or quote from a believable source, or evidence in favor of the claim under examination.
 
 **System**
 
+1. (legal) An aggregate of a jurisdiction's legal procedures, or general features of legal procedures that are similar across jurisdiction, e.g. common law.
+1. (technical) Software combined with devices and/or a network built for a purpose.
+
 **Template**
+
+1. (legal) A nearly complete draft of a contract which omits parts that are variable across cases (termed: placeholders), but includes terms that are generally common across cases.
+1. (technical) 
 
 **Term**
 
+1. (legal) Time at which an agreement expires.
+1. (legal) See clause.
+1. (legal) A word used in language with a specified definition.
+
 **Termination**
+
+1. (legal) To end a contract either by mutual agreement, by entitlement or by completion.
+1. (technical) To halt a software.
 
 **Termsheet**
 
+1. (legal) A list of terms detailing an agreement-in-principle.
+
+**Testament**
+
+1. (legal) A written set of instructions for transfer of a person's assets following said person's death.
+
 **Testimony**
+
+1. (legal) A witness's account of an event made under oath.
 
 **Text**
 
+1. (legal) An official written record; usu. applies to a statute.
+1. (technical) A datatype composed of a long string of characters usu. without validation.
+
 **Third Party**
+
+1. (legal) A person involved in a contract that is not a party to the said contract.
+1. (technical) Software or system that is publicly available.
+
+**Title**
+
+1. (legal) An entitlement or status; usu. conferred by an authority.
 
 **Tort**
 
+1. (legal) The body of Law that is concerned with assigning liability for acts that wrong a person outside the scope of contract.
+
 **Trade**
+
+1. (legal) To exchange property, assets or goods.
+1. (legal) The subset of commerce that relates to exchange of property rather than services.
 
 **Treaty**
 
+1. (legal) An agreement between states.
+
 **Trust**
+
+1. (casual) See credit.
+1. (legal) A legal structure that defines the intention of a person (termed: grantor) to place assets (termed: res) in custody of another person (termed: trustee) for the benefit of other persons (termed: beneficiaries) whilst following prescribed rules (termed: indenture).
+1. (technical) Reliance on a centralized system or authority.
+
+**Trustee**
+
+1. (casual) A person who is entrusted.
+1. (legal) A person who is the appointed caretaker of a trust.
 
 **Understanding**
 
+1. (casual) To seize meaning of a concept. Ex: *I'm afraid the defendant did not understand the details of the derivative contract.*
+1. (legal) To agree, or to have an agreement. Ex: *The parties have reached an understanding.*
+
 **Underwrite**
+
+1. (legal) To accept risk for.
+
+**Union**
+
+1. (legal) To combine entities to behave as one.
+1. (legal) A group of states into a nation.
+1. (legal) A collective group that represents workers in a company or industry.
+1. (technical) The sum total of two or more sets.
 
 **User**
 
+1. (technical) Whoever operates a system.
+
 **Validation**
+
+1. (legal) That is endorsed by the issuer.
+1. (technical) That something is examined to match predefined requirements.
 
 **Verification**
 
+1. (legal) To verify a claim.
+1. (technical) To verify a claim.
+
+**Vest**
+
+1. (legal) A specified duration for which a right or claim manifests.
+
 **Vet**
+
+1. (legal) See verify.
 
 **Veto**
 
+1. (legal) To decline approval.
+
 **Voluntary**
+
+1. (legal) Whereas a person agrees to participate.
 
 **Warrant**
 
+1. (legal) Justification. Ex: *The situation warrants an investigation.*
+1. (legal) A writ issued by a judicial authority granting enforment bodies the power to arrest a person.
+1. (legal) A note that evidences a right.
+
+**Will**
+
+1. (casual) See intention.
+1. (legal) See testament.
+
 **Witness**
 
+1. (legal) A person with special knowlege of an event.
