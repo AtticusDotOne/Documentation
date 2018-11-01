@@ -460,12 +460,12 @@ As such, legal terms as defined herein are not intended to be authoritative in a
 
 **Fact**
 
-1. (legal) Information that is sufficiently established to be considered true and correct; for which rebuttals were either not voiced or not outweighed by supporting evidence.
-1. (legal) Statement made by an authority in the subject matter.
+1. (legal) Information that is sufficiently established to be considered true and correct; for which rebuttals, if any, did not outweigh supporting evidence.
+1. (legal) Statement made by an authority on the subject matter.
 
 **Fault**
 
-1. (legal) Whether intended or not, either a lack of performance or to commit a prohibited act.
+1. (legal) Either a lack of performance or to commit a prohibited act.
 1. (technical) A state within a system that is not intended, forcing a halt in the execution.
 
 **Fiduciary**
