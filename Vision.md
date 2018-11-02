@@ -10,6 +10,7 @@ Imagine a bustling San Francisco coffee shop on a Friday early afternoon. Custom
 Bob is letting his single-origin Etheopian drip breathe while he catches up on his Twitter feed. Alice calls him out, Bobs smiles and greets her in return.
 
 "Let's get down to it." Alice kicks things off.
+
 "Good! We've got lots to cover, don't we?" Bob says in agreement.
 
 ### The Service Agreement
