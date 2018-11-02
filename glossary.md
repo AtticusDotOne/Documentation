@@ -460,6 +460,7 @@ As such, legal terms as defined herein are not intended to be authoritative in a
 
 **Fact**
 
+1. (casual) That is true and/or correct.
 1. (legal) Information that is sufficiently established to be considered true and correct; for which rebuttals, if any, did not outweigh supporting evidence.
 1. (legal) Statement made by an authority on the subject matter.
 
@@ -1026,7 +1027,7 @@ As such, legal terms as defined herein are not intended to be authoritative in a
 
 **Sovereign**
 
-1. (legal) The ultimate state authority; e.g a monarch or emperor.
+1. (legal) (noun) A state or the ultimate state authority; e.g a monarch or emperor.
 1. (legal) (adj.) See sovereignty.
 
 **Sovereignty**
