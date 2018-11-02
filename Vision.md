@@ -183,7 +183,7 @@ Iris repeats: "Where do you source your Ethiopian geisha? I've seriously gone ac
 
 "No, I just happen to be connected online with him and we worked out a contract."
 
-"You were able to trust him to ship it--and he trusts you to pay him? I never hear as such a trade deal."
+"You were able to trust him to ship it--and he trusts you to pay him? I never heard of such a trade deal."
 
 "Right. We just worked out the deal on Atticus. We made it into an escrow agreement. I don't need to trust the farmer or vice-versa, we just trust the escrow."
 
