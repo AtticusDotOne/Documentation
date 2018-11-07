@@ -203,6 +203,38 @@ Iris repeats: "Where do you source your Ethiopian geisha? I've seriously gone ac
 
 "Yeah, the marketplace. Atticus has loads of goods and services listed on there. You can find other farmers who put up their stock for direct sale."
 
-"Oh I **have to** look it up!" Iris heads towards the exit.
+"Oh I **have to** look it up!" Iris hurriedly heads towards the exit.
 
 "Aren't you going to order something?"
+
+## The Rental
+
+Kelly smoothes her hair pushing it up above her brow. She thens smiles and opens her eyes up wide in recognition of Larry.
+
+He puts his hand out for a handshake. "Hi! Thank you for making the time."
+
+"Not at all... I love this place--good suggestion. I didn't know this was in my area." Kelly raises her latte and purses her lips and nods slowly to telegraph: 'not bad.'
+
+"If we work things out, I'm sure I'll be here all the time." Larry emphasizes.
+
+"Oh stop it, we've been through this. I'd love to have you and your partner in my in-law suite."
+
+"I'm so happy to hear that--your place is fabulous."
+
+"That's very nice of you." She unlocks her phone and shows a QR code to Larry. "I've got my terms set up here--no pets, no smoking; and I hope the rent is reasonable for you, there are outrageous market rates in this town."
+
+"Right--not at all, I've seen higher. Your place is totally worth it! Ooo, that's an Atticus proposal? Kelly... I didn't realize you're so tech savvy."
+
+"I'm not... it's just real simple to use." She raises an elbow.
+
+"Alright... alright... I'm good on the rent... " Larry breathes sharply, squints and reluctantly says: "could I somehow, maybe, perhaps... pay a smaller deposit? Would you entertain a couter-offer?" Larry pauses. "Oh wait... counter proposals are not enabled for this proposal... I guess that's my answer."
+
+Kelly nods quietly. "This area is in high demand. I'm picky about my tenants, I know. But I'm afraid I'm firm on the amount."
+
+"I'm so sorry for asking... I love the place, I'm taking it. I'm taking it." Larry backpeddles. "Here I signed it!" He lifts his phone and waves it proudly.
+
+Kelly's phone buzzes. "Good! Here... I'll just sign it right now."
+
+Justin walks over: "Here's your espresso dopio."
+
+"Can you put it in a to-go cup? We're done here! I'm moving!" Larry says excitedly while showing off his contract on his iPhone.
