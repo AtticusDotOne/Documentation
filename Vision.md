@@ -21,7 +21,7 @@ Bob is letting his single-origin Ethiopian drip breathe while he catches up on h
 
 "I did! We have!" Alice smiles.
 
-"Good. Let me pull up the proposal." Bob pulls his phone up in front of him, pokes at his phones a few times. "Here you go."
+"Good. Let me pull up the proposal." Bob pulls his phone up in front of him, pokes at his phone a few times. "Here you go."
 
 Alice's phone buzzes--she pull it up.
 
