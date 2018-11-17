@@ -7,7 +7,7 @@
 
 Imagine a bustling San Francisco coffee shop on a Friday early afternoon. Customers line up looking forward to their caffeine boost. The barrista is heads down concentrating on his craft focused on maintaining the premium quality that keeps customers coming everyday.
 
-Bob is letting his single-origin Ethiopian drip breathe while he catches up on his Twitter feed. Alice calls him out, Bobs smiles and greets her in return.
+Bob is letting his single-origin Ethiopian drip breathe while he catches up on his Twitter feed. Alice calls him out, Bob smiles and greets her in return.
 
 "Let's get down to it." Alice kicks things off.
 
@@ -21,9 +21,9 @@ Bob is letting his single-origin Ethiopian drip breathe while he catches up on h
 
 "I did! We have!" Alice smiles.
 
-"Good. Let me pull up the proposal." Bob pulls his phone up in front of him, pokes at his phone a few times. "Here you go."
+"Good. Let me pull up the proposal." Bob pulls his phone up in front of him, pokes at it a few times. "Here you go."
 
-Alice's phone buzzes--she pull it up.
+Alice's phone buzzes--she pulls hers up.
 
 "Oh here it is! So quick!" Alice exclaims. "Lemme read it."
 
@@ -41,9 +41,9 @@ Alice gently taps the table. "Great! I accept. I'll have my staff work out the c
 
 "No need," Bob answers, "you can simply edit the price by counter-proposing."
 
-"Oh right! I forgot how useful Atticus is." She pulls up her phone; after a few taps she looks up at Bob again.
+"Oh right! I forgot how useful Atticus is." She pulls up her phone again; after a few taps she looks up at Bob again.
 
-Bob's phone buzzes. He taps a couple of times. "Signed on my end!" he says.
+Bob's phone buzzes. He taps a couple of times. "Signed on my end!" He says.
 
 Alice's phone buzzes. She taps her phone. "Signed! We've got a deal!" She says smiling.
 
@@ -53,7 +53,7 @@ They stand up, shake hands. "That was easy!" They both say in unison.
 
 In the next table over, Charlie and David are slowly sipping their espresso macchiatos making sure their pinky fingers don't stick out.
 
-"Why did the payment not show up?" David asks?
+"Why did the payment not show up?" David asks.
 
 "I don't know. She's been on time every month. I don't know what to do." Charlie answers.
 
@@ -61,13 +61,13 @@ In the next table over, Charlie and David are slowly sipping their espresso macc
 
 "Oh right! There is an arbitration clause; plus there's a penalty fee for late or missing payments." Charlie says pensively.
 
-"Right, no need to let it linger. This is why your check bounced, right? That's cause. That's injury, damages. Yeah?" David encourages him.
+"Right, no need to let it linger. This is why your check bounced, right? That's cause. That's injury, damages. Right?" David encourages him.
 
 Charlie pulls up his phone. "I've never done this... I hope it's not too drawn out. Oh well here goes."
 
 \----
 
-Felipe is binge watching Netflix as per his usual Friday evening routine in Manila. His phone buzzes; he puts the ice cream down, hits the pause button on his laptop.
+The stuffy Manila humidity feels cool and refreshing to Felipe's ears as he takes off the heavy-set noice cancelling headset. The noise of the city rushes in his conciousness--reminding him he's not in Washington, DC's fictional Underwood administration. He stares at his phone notification, then hits the Netflix pause button on his laptop.
 
 "Great! More business. What's your legal issue today?" He muses to himself.
 
@@ -77,11 +77,11 @@ Felipe is binge watching Netflix as per his usual Friday evening routine in Mani
 
 Erica is riding the subway on her way to NYU sociology class when her phone buzzes.
 
-"A contractual complaint against me?" She muffles to herself. "But I've been following the terms?!"
+"A contractual complaint against me?" She muffles to herself. "But I've been following the terms!!"
 
-"The complaint read that I've skipped the last monthly payment, so I'm liable to not only make up the missing payment, but also for a $20 penalty fee."
+"The complaint reads that I've skipped the last monthly payment, so I'm liable to not only make up the missing payment, but also for a $20 penalty fee."
 
-"But that's not right... we spoke about this... I'm not able to make this payment this month, I told him this 3 months back, and he agreed, so long as I'd pay him eventually the full amount."
+"But that's not right... we spoke about this... I'm not able to make this payment this month, I told him 3 months back, and he agreed, so long as I'd pay him eventually the full amount."
 
 "Good thing I kept this conversation on Atticus--I can pull it from the log. That'll prove we had this conversation."
 
@@ -207,6 +207,40 @@ Iris repeats: "Where do you source your Ethiopian geisha? I've seriously gone ac
 
 "Aren't you going to order something?"
 
+## The Fact Finder
+
+Justin scoffs, shakes his head then returns his gaze on his coffee press.
+
+"Hey, I've been listening to your conversation just now. I hope you don't mind." Manny interjects. "Did you know there's an even better way to do your trade?"
+
+"You're buying something, right?" Justin is clearly annoyed.
+
+Manny lifts up his steaming Kenyan dark roast. "I love your diversity of beans... but I still prefer my own country's beans. Listen. The best way to trade is by guaranteeing the product and the payment... like you're doing. But there's a better way."
+
+"This better be good."
+
+"What you have now is an escrow who both checks the product and makes the payment. That's too manual. You can automate the payment part. So I say: don't use an escrow, use a fact finder."
+
+"But I have to use an escrow, I need a human to check the beans in person." Justin frowns.
+
+"Indeed you do, but you don't need a human to perform the payment--if the payment is sitting in a Smart Contract. Just have the human--**the fact finder**--perform the inspection of goods, then enter his finding onto the Smart Contract. The automation kicks in from there either returning you the payment if the goods are not up to standard, or the payment goes to your farmer when all is good."
+
+"Ah I get it..." Justin tilts his head and stares blankly at the corner of his bar.
+
+"It's much cheaper than way. A fact finder has much less work to do--and is usually cheaper. Just appoint someone you both trust... it doesn't need to be a lawyer--there's less liability involved because their not custodian of the money."
+
+"Good. The less lawyers, the better!" Justin laughs. "You're not a lawyer, right?"
+
+"I'm one of the good ones."
+
+A shocked expression befalls Justin's face.
+
+Manny continues, steamrolling Justin's bewilderment. "The legal profession can't ignore technology forever. We have to evolve too." Manny puts his business card on the counter. "Just look up my profile on Atticus, I've got some templates in there that make use of fact finders instead of escrows for international trade. They'll cut down your costs significantly."
+
+Justin is still speechless--his mind is spinning.
+
+Manny sets down his white porcelain cup, stands up, waves at Justin. "See you tomorrow. I'll have my Kenyan roast as usual."
+
 ## The Rental
 
 Kelly smoothes her hair pushing it up above her brow. She thens smiles and opens her eyes up wide in recognition of Larry.
@@ -227,11 +261,11 @@ He puts his hand out for a handshake. "Hi! Thank you for making the time."
 
 "I'm not... it's just real simple to use." She raises an elbow.
 
-"Alright... alright... I'm good on the rent... " Larry breathes sharply, squints and reluctantly says: "could I somehow, maybe, perhaps... pay a smaller deposit? Would you entertain a couter-offer?" Larry pauses. "Oh wait... counter proposals are not enabled for this proposal... I guess that's my answer."
+Larry scans the QR code. "Alright... alright... I'm good on the rent... " Larry breathes sharply, squints and reluctantly says: "could I somehow, maybe, perhaps... pay a smaller deposit? Would you entertain a couter-offer?" Larry pauses. "Oh wait... counter proposals are not enabled for this proposal... I guess that's my answer."
 
 Kelly nods quietly. "This area is in high demand. I'm picky about my tenants, I know. But I'm afraid I'm firm on the amount."
 
-"I'm so sorry for asking... I love the place, I'm taking it. I'm taking it." Larry backpeddles. "Here I signed it!" He lifts his phone and waves it proudly.
+"I'm so sorry for even asking... I love the place, I'm taking it. I'm taking it." Larry backpeddles. "Here I signed it!" He lifts his phone and waves it proudly.
 
 Kelly's phone buzzes. "Good! Here... I'll just sign it right now."
 
