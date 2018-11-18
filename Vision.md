@@ -67,7 +67,7 @@ Charlie pulls up his phone. "I've never done this... I hope it's not too drawn o
 
 \----
 
-The stuffy Manila humidity feels cool and refreshing to Felipe's ears as he takes off the heavy-set noice cancelling headset. The noise of the city rushes in his conciousness--reminding him he's not in Washington, DC's fictional Underwood administration. He stares at his phone notification, then hits the Netflix pause button on his laptop.
+The stuffy Manila humidity feels cool and refreshing to Felipe's ears as he takes off the heavy-set noise cancelling headset. The noise of the city rushes in his conciousness--reminding him he's not in Washington, DC's fictional Underwood administration. He stares at his phone notification, then hits the Netflix pause button on his laptop.
 
 "Great! More business. What's your legal issue today?" He muses to himself.
 
@@ -259,7 +259,7 @@ He puts his hand out for a handshake. "Hi! Thank you for making the time."
 
 "Right--not at all, I've seen higher. Your place is totally worth it! Ooo, that's an Atticus proposal? Kelly... I didn't realize you're so tech savvy."
 
-"I'm not... it's just real simple to use." She raises an elbow.
+"I'm not... it's just real simple to use." She raises her shoulder and smirks.
 
 Larry scans the QR code. "Alright... alright... I'm good on the rent... " Larry breathes sharply, squints and reluctantly says: "could I somehow, maybe, perhaps... pay a smaller deposit? Would you entertain a couter-offer?" Larry pauses. "Oh wait... counter proposals are not enabled for this proposal... I guess that's my answer."
 
