@@ -227,7 +227,7 @@ Manny lifts up his steaming Kenyan dark roast. "I love your diversity of beans..
 
 "Ah I get it..." Justin tilts his head and stares blankly at the corner of his bar.
 
-"It's much cheaper than way. A fact finder has much less work to do--and is usually cheaper. Just appoint someone you both trust... it doesn't need to be a lawyer--there's less liability involved because their not custodian of the money."
+"It's much cheaper that way. A fact finder has much less work to do--and is definitely cheaper. Just appoint someone you both trust... it doesn't need to be a lawyer--there's less liability involved because they're not custodian of the funds."
 
 "Good. The less lawyers, the better!" Justin laughs. "You're not a lawyer, right?"
 
